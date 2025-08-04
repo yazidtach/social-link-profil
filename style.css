@@ -5,16 +5,20 @@
     padding: 0;
     font-family: "Inter", sans-serif;
 }
-
+body{
+    background-color: lightgray;
+}
 section{
     max-width: 600px;
-    margin: 0.7rem auto 1rem;
+    margin: 6rem auto 1rem;
     background-color: #333;
     color: aliceblue;
     padding-bottom: 2rem;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
+    box-shadow: 10px 10px 10px lightgreen;
+
 }
 
 img{
