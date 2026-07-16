@@ -22,7 +22,8 @@ section{
 }
 
 img{
-    width: 150px;
+    width: 190px;
+    height: 190px;
     border-radius: 100%;
     align-content: center;
 }
